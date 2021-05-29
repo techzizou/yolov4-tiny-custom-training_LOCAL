@@ -1,6 +1,6 @@
 
 
-# Train a custom YOLOv4-tiny object detector 
+# Train a custom YOLOv4-tiny object detector on Windows
 
 
 ![](yolov4-tiny-custom.gif)
@@ -21,17 +21,13 @@ This dataset has mostly close-up images (around 1300) and very few long-shot ima
 
 **<ins>NOTE</ins>** : The **yolov4-tiny-custom.cfg**, **obj.data**, and **obj.names** files are customized for the 2 classes I am working with. (i.e. "with_mask" & "without_mask"). You can edit these files for your custom objects.
 
-## My Colab notebook for training a custom Yolov4-tiny detector
 
-https://colab.research.google.com/drive/1hQO4nOoD6RDxdbz3C1YSiifTsyZjZpYm?usp=sharing
 
-## My Medium article on this
+## My article on this
 
-https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-using-yolov4-tiny-darknet-b58be08c9593
 
 ## Watch my YouTube video on this 
 
-https://youtu.be/H3SJcwttTi4
 
 
 

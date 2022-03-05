@@ -25,9 +25,12 @@ This dataset has mostly close-up images (around 1300) and very few long-shot ima
 
 ## My article on this
 
+https://medium.com/analytics-vidhya/train-a-custom-yolov4-tiny-object-detector-on-windows-5ec436100433
+
 
 ## Watch my YouTube video on this 
 
+https://youtu.be/kCZUj6Xy6nM
 
 
 
